@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost/java_auth
+    username: admin
+    password: admin
+
+#JWT secretkey
+jwt.secret-key:  flkfjlgjlmfkgjmfgjmfjgmfjgmfgkmfgmfgkùfkgùfùkgkdsùgkùdgù*fsg*glfgùdskgdskgkùgkfsgfkgùfgkù
+jwt.issuer: ctoutweb 
